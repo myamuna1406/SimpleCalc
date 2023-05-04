@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="num_1">Num:1</string>
+    <string name="num_2">Num:2</string>
+    <string name="result">Result</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="mul">*</string>
+    <string name="div">/</string>
+    <string name="mod">%</string>
+    <string name="pow">^</string>
+    <string name="equ">=</string>
+</resources>
